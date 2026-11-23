@@ -1,0 +1,6 @@
+method,silhouette,ari_vs_kmeans
+kmeans,0.428,1.0
+hierarchical-ward,0.42,0.891
+hierarchical-average,0.39,0.734
+hierarchical-complete,0.375,0.768
+hierarchical-single,-0.043,0.008
