@@ -83,7 +83,3 @@ tests/          unit tests (shapes, scaling, determinism, elbow, profiling)
 data/           Mall_Customers.csv (public Kaggle dataset)
 results/        figures and CSVs used in this README
 ```
-
-## History
-
-This repo replaces three earlier method-centred repos: `Customer-Segmentation-kmeans`, `Clustering_Hierarchical` and the customer part of `Classification_KNN`.
